@@ -1,4 +1,3 @@
-# What is AI and How Does It Work?
 
 Artificial intelligence (AI) is a rapidly evolving technology that has the potential to revolutionize the way we work. In this chapter, we will explore what AI is and how it works, as well as its applications in office efficiency.
 

@@ -1,5 +1,3 @@
-The Role of AI in Enhancing Office Efficiency
-===========================================================
 
 Artificial intelligence (AI) has become an increasingly important part of modern business operations, providing new ways to streamline workflows, improve decision-making, and enhance customer service. In the office setting, AI can be leveraged to automate routine tasks, provide real-time insights, and facilitate communication and collaboration.
 

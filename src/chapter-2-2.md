@@ -1,4 +1,3 @@
-# Common Applications of AI in Office Efficiency, including Automation and Machine Learning
 
 Artificial intelligence (AI) has become an increasingly popular tool for businesses looking to improve office efficiency. In this chapter, we will explore some common applications of AI in office efficiency, with a focus on automation and machine learning.
 

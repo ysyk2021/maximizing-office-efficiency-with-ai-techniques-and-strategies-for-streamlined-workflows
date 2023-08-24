@@ -1,5 +1,3 @@
-Chapter 2: Automating Routine Tasks with AI
-===========================================
 
 Automation has become a crucial component of office efficiency, and artificial intelligence (AI) has played a significant role in this transformation. With the ability to automate routine tasks, organizations can free up valuable time and resources for more complex and strategic work. In this chapter, we will explore two key strategies for automating routine tasks with AI.
 
