@@ -1,5 +1,4 @@
-Chapter: Best Practices for Integrating AI into Office Workflows While Maintaining Ethical Standards
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

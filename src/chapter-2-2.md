@@ -1,5 +1,4 @@
-Chapter: Common Applications of AI in Office Efficiency, including Automation and Machine Learning
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
